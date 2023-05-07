@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/containers/Lists" />
       <excludeFolder url="file://$MODULE_DIR$/src/containers/Trees" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (TemplatedContainersCS)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
